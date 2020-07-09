@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale:1.0"/>
+<style type="text/css">
+.p2 {color:green;font-family:arial black;}
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #333;
+ }
+ 
+ li {
+ float: left;
+ }
+ 
+ li a {
+ display: inline-block;
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ }
+ 
+ li a:hover {
+ background-color: #111;
+ }
+h3 {font-family:arial black;text-shadow:1px 1px 1px blue;color:aqua; overflow: hidden;margin-top:5px;}
+h3:hover {color:red; transition:3s;}
+.p1 {color:maroon;font-family:arial black;}
+p1:hover {color:aqua; background-color:black;}
+</style>
+</head>
+<body>
+<nav>
+<div>
+<ul>
+<li><a href="/storage/emulated/0/thyself.html" >Home</a></li>
+<li><a href="/storage/emulated/0/tasin.html" >About</a></li>
+<li><a href="#" >Services</a></li>
+<li><a href="#" >Contact</a></li>
+<ul>
+</div>
+</nav>
+<h3>What I do and what I wanna be...</h3>
+<p class="p1"> This is Tanvir Ahmed Shaown. Now, I am a student of class 10 department of science. I'm learning web design as well. Cause I wanna be a great web designer.</p>
+<p class="p2"> I have many dreams in my life among them I wanna mention some of them. At first I wanna be a Doctor. And then I wanna be a web designer as well. I wanna be the richest person of Bangladesh as well.</p>
+</body>
+</html>
